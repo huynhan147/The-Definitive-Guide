@@ -1,25 +1,23 @@
 # The - Definitive - Guide
 
-# Chapter 1
-
-## Google RankBrain: Giải thích trực quan
-RankBrain là một trí tuệ nhân tạo mà Google sử dụng để sắp xếp các kết quả tìm kiếm. Nó cũng giúp Google sử lý và hiểu các truy vấn tìm kiếm.
+# Chương 1.Google RankBrain: Giải thích trực quan
+RankBrain là một trí tuệ nhân tạo mà Google sử dụng để sắp xếp các kết quả tìm kiếm. Nó cũng giúp Google xử lý và hiểu các truy vấn tìm kiếm.
 
 Vậy điều gì làm RankBrain khác biệt?
 
 Trước RankBrain, 100% thuật toán của Google được viết bằng tay.
-Vì thế quá trình sử lý được diễn ra như thế này:
+Vì thế quá trình xử lý được diễn ra như thế này:
 
 ![1](https://cdn-backlinko.pressidium.com/wp-content/uploads/2017/11/1_2_google-engineers.png)
 
 
 
-Tất nhiên, Các kĩ sư con người vẫn làm việc trên thuật toán. NHưng ngày nay, RankBrain cũng làm điều đó trong nền.
+Tất nhiên, Các kĩ sư vẫn làm việc trên thuật toán. NHưng ngày nay, RankBrain cũng làm điều đó trên nền tảng.
 
 Nói ngắn gọn, RankBrain tự điều chỉnh thuật toán
 
 Tùy thuộc vào từ khóa, RankBrain sẽ tăng hay giảm bớt tầm quan trọng của backlinks, sự mới mẻ của nội dung, chiều dài của nội dung,
-cơ quan tên miền, etc.
+quyền hạn domain, etc.
 
 Sau đó, Nó nhìn vào cách người tìm kiếm của Google tương tác với kết quả tìm kiếm mới. Nếu người dùng thích thuật toán mới hơn nó sẽ giữ lại. Nếu không, RankBrain sẽ quay lại thuật toán cũ.
 
@@ -27,11 +25,11 @@ Sau đó, Nó nhìn vào cách người tìm kiếm của Google tương tác v�
 
 Google yêu cầu một nhóm kỹ sư xác định trang tốt nhất cho một kết quả tìm kiếm và họ cũng yêu cầu RankBrain.
 
-Và RankBrain thông minh hơn các kỹ sư 10 %.
+Và RankBrain đã vượt trội hơn các kỹ sư 10 %.
 
 ![2](https://cdn-backlinko.pressidium.com/wp-content/uploads/2017/11/1_4_accuracy.png)
 
-Nó ngắn gọn, RankBrain làm việc. Và nó ở đây.
+Nói ngắn gọn, RankBrain làm việc. Và nó ở đây.
 
 Bây giờ cái bạn đã thấy tổng quan về RankBrain. Hãy tìm hiểu sâu hơn cách nó hoạt động.
 
@@ -52,11 +50,11 @@ Một vài năm trước, Google có một vấn đề:
 
 15% từ khóa mà mọi người đã nhập vào google chưa từng thấy trước đây.
 
-15% có lẽ nhìn không nhiều. Nhưng khi bạn sử lý hàng tỷ tìm kiếm một ngày, điều đó có nghĩa là 450 triệu từ khóa làm Google bối rối mỗi ngày.
+15% có lẽ không nhiều. Nhưng khi bạn xử lý hàng tỷ tìm kiếm một ngày, điều đó có nghĩa là 450 triệu từ khóa làm Google bối rối mỗi ngày.
 
 Trước RankBrain, Google sẽ quét các trang để xem nó có chứa các từ khóa mà ai đó tìm kiếm không.
 
-Nhưng bởi vì  những từ khóa này là thương hiệu mới, Google không có đầu mốt về cái mà người tìm kiếm cần. Vì vậy họ đoán.
+Nhưng bởi vì  những từ khóa này là thương hiệu mới, Google không có đầu mối về cái mà người tìm kiếm cần. Vì vậy họ đoán.
 
 Ví đụ, Giả sử bạn tìm kiếm “the grey console developed by Sony”. Google sẽ tìm các trang có chứa các điều kiện "grey", “console”, “developed” và “Sony”.
 
@@ -86,7 +84,7 @@ Vì vậy nó cho kết quả về các tay cầm. Trong trường hợp này l�
 
 ![5](https://cdn-backlinko.pressidium.com/wp-content/uploads/2018/01/2_4_rankbrain-method.png)
 
-Một ví dụ: một thời gian trước khi Google công bố một bài đăng trên blog cách mà họ sử dụng máy móc để học cách hiểu rõ hơn về ý định của người tìm kiếm:
+Một ví dụ: một thời gian trước khi Google công bố một bài đăng trên blog cách mà họ sử dụng tính năng học máy  để học cách hiểu rõ hơn về ý định của người tìm kiếm:
 
 ![6](https://cdn-backlinko.pressidium.com/wp-content/uploads/2017/11/2_5_google-open-source-blog.png)
 
@@ -102,13 +100,13 @@ RankBrain có khả năng sử dụng công nghệ tương tự.
 
 Nói ngắn gọn: Google RankBrain vượt trội so với so sánh từ khóa đơn giản. Nó biến từ khóa tìm kiến của bạn thành các khái niệm và cố gắng tìm thấy các trang bao gồm các khái niệm đó.
 
-Ở chapter 3 Tôi sẽ cho bạn thấy làm thế nào điểu này thay đổi cách chúng ta nên nghiên cứu từ khóa SEO. Nhưng đầu tiên, hãy xem phần thú vị nhất của RankBrain.
+Ở chương 3 Tôi sẽ cho bạn thấy làm thế nào điểu này thay đổi cách chúng ta nên nghiên cứu từ khóa SEO. Nhưng đầu tiên, hãy xem phần thú vị nhất của RankBrain.
 
 ## Cách RankBrain đo lường sự hài lòng của người dùng
 
 Chắc chắn rồi, RankBrain có thể lấy một cú đâm vào sự hiểu biết từ khóa mới.Và nó cũng có thể tự tinh chỉnh thuật toán
 
-Nhưng câu hỏi lớn ở đây là: Khi RankBrain hiển thị một tập hợp các kết quả shows a set of results, làm cách nào để biết liệu chúng có thật sự tốt không?
+Nhưng câu hỏi lớn ở đây là: Khi RankBrain hiển thị một tập hợp các kết quả, làm cách nào để biết liệu chúng có thật sự tốt không?
 
 Vâng nó quan sát:
 
